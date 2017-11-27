@@ -51,7 +51,7 @@
     },
     {
       "component": "header",
-      "heading": "Test",
+      "heading": "Marco Wright",
       "subhead": "test",
       "children": [
         {
@@ -64,7 +64,9 @@
           "user": "marcowright",
           "repo": "Test"
         }
-      ]
+      ],
+      "links": [],
+      "backgroundImage": ""
     },
     {
       "component": "article",
